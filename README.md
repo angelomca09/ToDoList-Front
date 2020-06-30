@@ -1,2 +1,2 @@
 # ToDoList-Front
-Front End for the ToDoList App
+Front End for a ToDoList App using React
